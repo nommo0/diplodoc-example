@@ -11,3 +11,7 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: Soxo
+    include:
+      path: soxo/toc.yaml
+      mode: link

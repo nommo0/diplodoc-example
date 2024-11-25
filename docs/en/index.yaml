@@ -1,4 +1,4 @@
-title: Documentation Template
+title: Шаблон Главная
 links:
   - title: About
     href: about.md
@@ -8,5 +8,5 @@ links:
     href: anotherpage.md
   - title: Sub-section on index page
     href: sub-section/
-  - title: Sub-section on index page
-    href: sub-section/
+  - title: Soxo
+    href: soxo/
