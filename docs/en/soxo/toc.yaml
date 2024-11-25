@@ -1,5 +1,5 @@
-title: Майнинг
+title: Soxo
 href: index.yaml
 items:
-  - name: Майнинг
-    href: mining.md
+  - name: Сценарии работы
+    href: work_scenarios.md
