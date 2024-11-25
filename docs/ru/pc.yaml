@@ -1,0 +1,23 @@
+blocks:
+  - type: 'header-block'
+    width: 's'
+    offset: 'default'
+    title: 'Diplodoc'
+    resetPaddings: true
+    verticalOffset: 'l'
+    description: 'Платформа для создания технической документации в концепции Docs as Сode с открытым исходным кодом. Простое и удобное решение для развёртывания документации больших и маленьких команд.'
+    background:
+      image:
+        mobile: 'https://storage.yandexcloud.net/diplodoc-www-assets/pages/index-diplodoc/ddos-index-cover-mini.png'
+        desktop: '_assets/test-move.png'
+      color: '#C6FE4D'
+      fullWidth: false
+    buttons:
+      - text: 'Начать'
+        theme: 'dark'
+        size: 'promo'
+        url: '/quickstart'
+      - text: 'GitHub'
+        theme: 'outlined'
+        size: 'promo'
+        url: 'https://github.com/diplodoc-platform'
