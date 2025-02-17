@@ -1,46 +1,8 @@
-title: Soxo
+title: Giftstat
 href: index.yaml
-analytics:
-  text: 'Мы используем файлы cookie, чтобы вы могли наилучшим образом пользоваться нашим веб-сайтом. Если вы продолжаете использовать наш веб-сайт, мы полагаем, что вы согласны с таким использованием.'
-  buttons:
-    accept:
-      text: "Ок"
-      theme: "accent"
-      size: "xl"
-navigation:
-  logo:
-    url: "../ru"
-    urlTitle: 'Вернуться на главную'
-    dark:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
-    light:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
-  header:
-    leftItems:
-      - text: "Как все устроено"
-        type: "link"
-        url: "../../how-to/"
-      - text: "Документация"
-        type: "link"
-        url: "../../docs/ru/"
-      - text: "Telegram"
-        type: "link"
-        url: "https://t.me/diplodoc_ru"
-      - text: "Github"
-        type: "link"
-        url: "https://github.com/diplodoc-platform/"
-    rightItems:
-      - type: controls
 items:
-  - name: Концепция
-    href: concept.md
-  - name: Майнинга
-    href: mining.md
-  - name: Пресейл
-    href: presale.md
-  - name: Пресейла
-    href: presale.md
-  - name: О проекте
-    href: about.md
-  - name: PC
-    href: pc.yaml
+  - name: Dashboard
+    href: dashboard.md
+  - name: API
+    href: api.md
+

@@ -20,15 +20,15 @@ navigation:
 #      - text: "Gift Stat"
 #        type: "link"
 #        url: "https://giftstat.com"
-      - text: "Gift Stat API"
-        type: "link"
-        url: "../../docs/ru/"
-#      - text: "Telegram"
+#      - text: "Gift Stat API"
 #        type: "link"
-#        url: "https://t.me/+wXShPtXUQDpjMjAy"
-      - text: "Github"
+#        url: "../../docs/en/"
+      - text: "Telegram"
         type: "link"
-        url: "https://github.com/diplodoc-platform/"
+        url: "https://t.me/+wXShPtXUQDpjMjAy"
+#      - text: "Github"
+#        type: "link"
+#        url: "https://github.com/diplodoc-platform/"
     rightItems:
       - type: controls
 items: 
