@@ -32,8 +32,8 @@ navigation:
     rightItems:
       - type: controls
 items:
-# - name: Giftstat
-#   href: about.md
-#
-# - name: PC
-#   href: pc.yaml
+ - name: Giftstat
+   href: about.md
+
+ - name: PC
+   href: pc.yaml
