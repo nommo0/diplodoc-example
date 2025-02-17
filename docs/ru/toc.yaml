@@ -32,46 +32,8 @@ navigation:
     rightItems:
       - type: controls
 items:
-#  - name: Концепция
-#    href: concept.md
-#
-#  - name: Пресейл
-#    href: presale.md
-#
-#  - name: Пресейл
-#    href: presale.md
+ - name: Giftstat
+   href: about.md
 
-#  - name: Майнинг
-#    include:
-#      path: mining/toc.yaml
-#      mode: link
-#
-#  - name: Игровые механики
-#    href: presale.md
-#
-#  - name: p2p торги
-#    href: presale.md
-
-#  - name: Giftstat
-#    href: about.md
-#
-#  - name: PC
-#    href: pc.yaml
-#
-#  - name: Реферальная программа
-#    href: presale.md
-#
-#  - name: Пулы
-#    href: presale.md
-#
-#  - name: Роадмап
-#    href: presale.md
-#
-#  - name: DAO
-#    href: presale.md
-#
-#  - name: Статистика
-#    href: presale.md
-#
-#  - name: Бот
-#    href: presale.md
+ - name: PC
+   href: pc.yaml
