@@ -1,4 +1,4 @@
-title: 42 Club
+title: Soxo
 href: index.yaml
 analytics:
   text: 'Мы используем файлы cookie, чтобы вы могли наилучшим образом пользоваться нашим веб-сайтом. Если вы продолжаете использовать наш веб-сайт, мы полагаем, что вы согласны с таким использованием.'
@@ -17,61 +17,30 @@ navigation:
       icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
   header:
     leftItems:
-#      - text: "Как все устроено"
-#        type: "link"
-#        url: "../../how-to/"
-#      - text: "Документация"
-#        type: "link"
-#        url: "../../docs/ru/"
+      - text: "Как все устроено"
+        type: "link"
+        url: "../../how-to/"
+      - text: "Документация"
+        type: "link"
+        url: "../../docs/ru/"
       - text: "Telegram"
         type: "link"
-        url: "https://t.me/+wXShPtXUQDpjMjAy"
-#      - text: "Github"
-#        type: "link"
-#        url: "https://github.com/diplodoc-platform/"
+        url: "https://t.me/diplodoc_ru"
+      - text: "Github"
+        type: "link"
+        url: "https://github.com/diplodoc-platform/"
     rightItems:
       - type: controls
 items:
   - name: Концепция
     href: concept.md
-
+  - name: Майнинга
+    href: mining.md
   - name: Пресейл
     href: presale.md
-
-  - name: Пресейл
+  - name: Пресейла
     href: presale.md
-
-  - name: Майнинг
-    include:
-      path: mining/toc.yaml
-      mode: link
-
-  - name: Игровые механики
-    href: presale.md
-
-  - name: p2p торги
-    href: presale.md
-
-  - name: Giftstat
+  - name: О проекте
     href: about.md
-
   - name: PC
     href: pc.yaml
-
-  - name: Реферальная программа
-    href: presale.md
-
-  - name: Пулы
-    href: presale.md
-
-  - name: Роадмап
-    href: presale.md
-
-  - name: DAO
-    href: presale.md
-
-  - name: Статистика
-    href: presale.md
-
-  - name: Бот
-    href: presale.md
