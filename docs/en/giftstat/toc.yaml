@@ -1,0 +1,8 @@
+title: Giftstat
+href: index.yaml
+items:
+  - name: Dashboard
+    href: dashboard.md
+  - name: API
+    href: api.md
+
