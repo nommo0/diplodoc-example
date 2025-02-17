@@ -1,4 +1,4 @@
-title: Шаблон Главная
+title: 42 Club
 links:
   - title: About
     href: about.md
@@ -6,7 +6,7 @@ links:
     href: page.md
   - title: YFM Structure on index page
     href: anotherpage.md
-  - title: Sub-section on index page
-    href: sub-section/
+  - title: Giftstat
+    href: giftstat/
   - title: Soxo
     href: soxo/

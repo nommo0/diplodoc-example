@@ -1,0 +1,6 @@
+title: Sub-section Example on index page
+links:
+  - title: Dashboard
+    href: https://giftstat.com
+  - title: API
+    href: api.md

@@ -32,14 +32,6 @@ navigation:
     rightItems:
       - type: controls
 items:
-  - name: Концепция
-    href: concept.md
-  - name: Майнинга
-    href: mining.md
-  - name: Пресейл
-    href: presale.md
-  - name: Пресейла
-    href: presale.md
   - name: О проекте
     href: about.md
   - name: PC
