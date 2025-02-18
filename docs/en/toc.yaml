@@ -33,7 +33,7 @@ navigation:
       - type: controls
 items:
   - name: 42 Club
-  - labeled: true
+    labeled: true
   - items:
     - name: About us
       href: about.md
