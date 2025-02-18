@@ -34,15 +34,11 @@ navigation:
 items: 
   - name: About 42 Club
     href: about.md
-#  - name: Дополнительная страница
-#    href: page.md
-#  - name: Еще одна страница
-#    href: anotherpage.md
-  - name: Gifts
+  - name: Telegram Gifts
     include:
-      path: giftstat/toc.yaml
+      path: tg-gifts/toc.yaml
       mode: link
-  - name: Soxo
-    include:
-      path: soxo/toc.yaml
-      mode: link
+#  - name: Soxo
+#    include:
+#      path: soxo/toc.yaml
+#      mode: link

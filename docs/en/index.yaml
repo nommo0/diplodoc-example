@@ -1,12 +1,8 @@
 title: 42 Club
 links:
-  - title: About
+  - title: About 42 Club
+    description: 42 club
     href: about.md
-  - title: Diplodoc page on index page
-    href: page.md
-  - title: YFM Structure on index page
-    href: anotherpage.md
-  - title: Giftstat
-    href: giftstat/
-  - title: Soxo
-    href: soxo/
+  - title: Gifts
+    description: Telegram Gifts
+    href: gifts/index.yml

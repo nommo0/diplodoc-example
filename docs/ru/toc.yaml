@@ -32,8 +32,8 @@ navigation:
     rightItems:
       - type: controls
 items:
- - name: Giftstat
-   href: about.md
+  - name: About 42 Club
+    href: about.md
+  - name: Giftstat
+    href: about.md
 
- - name: PC
-   href: pc.yaml
