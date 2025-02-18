@@ -14,7 +14,7 @@ navigation:
     dark:
       icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
     light:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
+      icon: "https://storage.yandexcloud.net/42club-www-assets/logo/logo-light.jpg"
   header:
     leftItems:
 #      - text: "Как все устроено"
@@ -32,8 +32,11 @@ navigation:
     rightItems:
       - type: controls
 items:
-  - name: About 42 Club
-    href: about.md
+  - name: 42 Club
+  - labeled: true
+  - items:
+    - name: О нас
+      href: about.md
   - name: Giftstat
     href: about.md
 

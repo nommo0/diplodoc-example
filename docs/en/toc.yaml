@@ -14,7 +14,7 @@ navigation:
     dark:
       icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
     light:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
+      icon: "https://storage.yandexcloud.net/42club-www-assets/logo/logo-light.jpg"
   header:
     leftItems:
 #      - text: "Gift Stat"
@@ -31,9 +31,12 @@ navigation:
 #        url: "https://github.com/diplodoc-platform/"
     rightItems:
       - type: controls
-items: 
-  - name: About 42 Club
-    href: about.md
+items:
+  - name: 42 Club
+  - labeled: true
+  - items:
+    - name: About us
+      href: about.md
   - name: Telegram Gifts
     include:
       path: tg-gifts/toc.yaml
